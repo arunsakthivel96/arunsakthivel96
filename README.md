@@ -1,58 +1,168 @@
-### Hi there, I'm Arun Kumar Sakthviel 👋
-⚡ Arise,awake and donot stop until the goal is reached.
-## I'm a  Developer and a Independent CyberSecurity Reacher - OWASP Dindigul Chapter lead!
+# Hi there, I'm Arun Kumar Sakthivel 👋
 
- <img src="https://komarev.com/ghpvc/?username=arunsakthivel96" alt="" />
- 
-- 🔭 I’m currently working on US Based Company!
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to Code & Cyber Sec
+### Senior Software Engineer | .NET Full-Stack Developer | Cybersecurity Researcher
 
-![Arun kumar Sakthivel's github stats](https://github-readme-stats.vercel.app/api?username=arunsakthivel96&show_icons=true&theme=radical) 
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsakthivel96&layout=compact)
+> ⚡ *Arise, awake, and do not stop until the goal is reached.*
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Firebase" width="26px" src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" />
-<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" />
+I'm a **Senior Software Engineer with 9+ years of experience** in .NET full-stack development, enterprise application design, secure software engineering, and automation.
 
-<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
-<br />
+My core expertise includes **C#, .NET, ASP.NET MVC, Web API, Angular, SQL Server, PowerShell, Python, CI/CD, and secure coding aligned with OWASP standards**.
 
-### Connect with me:
-[<img align="left" alt="Arun Kumar Sakthivel  | stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stackoverflow.svg" />][stackoverflow]
+I enjoy building reliable enterprise applications, solving complex engineering problems, improving application performance, and exploring cybersecurity.
 
-[<img align="left" alt="Arun Kumar Sakthivel  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Arun Kumar Sakthivel  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
+## 🚀 About Me
 
-<br />
+- 🔭 Currently working as **Senior Software Engineer II at Carelon Global Solutions**
+- 💻 9+ years of experience across the **full Software Development Life Cycle (SDLC)**
+- 🛡️ Focused on **secure software engineering and OWASP Top 10**
+- ⚙️ Experienced in **enterprise application design, development, testing, deployment, and production support**
+- 🗄️ Strong experience with **SQL Server, database design, and performance tuning**
+- 🤖 Interested in **automation, AI/ML, cybersecurity, and developer tooling**
+- 🌱 Currently learning and exploring new technologies
+- ⚡ Fun fact: I love **coding and cybersecurity**
 
-[stackoverflow]: https://stackoverflow.com/users/10262709/arunsakthivel96
-[instagram]: https://www.instagram.com/arunsakthivel96_/
-[linkedin]: https://www.linkedin.com/in/arunsakthivel96/
+---
 
-<!--
-**arunsakthivel96/arunsakthivel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Professional Experience
 
-Here are some ideas to get you started:
+### Carelon Global Solutions
+**Senior Software Engineer II** — April 2025 – Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lead end-to-end delivery of enterprise applications across design, development, testing, deployment, and production support.
+- Engineer scalable .NET backend services and Angular-based frontend modules for business-critical workflows.
+- Optimize SQL Server schemas and query performance.
+- Execute unit, integration, and system testing.
+- Identify, triage, and remediate security vulnerabilities aligned with OWASP Top 10 and secure coding standards.
+- Collaborate with clients and business stakeholders to convert requirements into technical solutions.
+
+**Software Engineer II** — December 2021 – March 2025
+
+- Developed and enhanced enterprise application features across the complete SDLC.
+- Supported release planning, deployments, root-cause analysis, and production maintenance.
+- Prepared technical documentation, runbooks, and Minutes of Meeting (MOMs).
+
+### Cognizant Technology Solutions
+**Programmer Analyst** — August 2019 – December 2021
+
+- Built application features using C#, ASP.NET, and SQL Server.
+- Performed unit, integration, and system testing.
+- Resolved defects, vulnerabilities, and code-quality issues.
+- Supported releases, deployments, and post-production issue resolution.
+- Collaborated with cross-functional teams and maintained project documentation.
+
+### Park Global HR Services
+**Trainee Software Engineer** — July 2018 – August 2019
+
+- Assisted with application development and testing.
+- Implemented job scheduling and notification workflows for inbound request tracking and alerts.
+- Supported deployment and basic production support activities.
+
+### Coston Global
+**Software Engineer** — June 2017 – June 2018
+
+- Developed server-side components and integrated third-party services.
+- Built and maintained UI components with input validation and robust error handling.
+- Contributed across design, development, testing, and deployment phases.
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Backend
+- C#
+- .NET Framework
+- .NET Core
+- ASP.NET MVC
+- ASP.NET Web API
+- REST APIs
+- Node.js — Basic
+
+### Frontend
+- Angular
+- JavaScript
+- HTML5
+- CSS3
+
+### Database
+- Microsoft SQL Server
+- Database Design
+- Query Optimization
+- Performance Tuning
+- SSIS
+
+### Security
+- Secure Coding
+- OWASP Top 10
+- Vulnerability Identification
+- Vulnerability Remediation
+
+### DevOps & Automation
+- CI/CD
+- Deployment
+- PowerShell
+- Python
+- Linux
+- Windows
+
+### Engineering Practices
+- SDLC
+- Agile
+- Unit Testing
+- Integration Testing
+- System Testing
+- Production Support
+- Technical Documentation
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**
+
+Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore  
+**2014 – 2017**
+
+---
+
+## 📊 GitHub Stats
+
+![Arun Kumar Sakthivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsakthivel96&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsakthivel96&layout=compact)
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=arunsakthivel96" alt="Profile views" />
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arunsakthivel96/)
+- 💻 [GitHub](https://github.com/arunsakthivel96)
+- 📚 [Stack Overflow](https://stackoverflow.com/users/10262709/arunsakthivel96)
+- 📸 [Instagram](https://www.instagram.com/arunsakthivel96_/)
+
+---
+
+## 🧭 What I Like Building
+
+```text
+Enterprise Applications
+        ↓
+.NET + C# + ASP.NET
+        ↓
+Angular + REST APIs
+        ↓
+SQL Server + Performance
+        ↓
+Testing + CI/CD
+        ↓
+Secure & Production-Ready Software
+```
+
+> **Build. Secure. Automate. Improve. Repeat.** 🚀
